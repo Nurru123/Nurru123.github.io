@@ -7,8 +7,7 @@ body{
   margin-top: 130px;
 }
 .inner-maks {
-  max-width: calc(100% - 240px);
-  width: 100%;
+  max-width: calc(1440px - 240px);
   padding: 0 120px;
   margin: auto;
 }

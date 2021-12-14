@@ -9,8 +9,7 @@
 }
 
 .inner-katya {
-    width: calc(100% - 240px);
-    max-width: 1200px;
+    max-width: calc(1440px - 240px);
     margin: 0 auto;
     padding: 0 120px;
     font-family: 'Roboto', sans-serif;
@@ -123,7 +122,7 @@
 @media screen and (max-width: 1279px) {
     
     .inner-katya {
-        width: calc(845px - 140px);
+        max-width: calc(845px - 140px);
         padding: 0 70px;
     }
     
@@ -297,9 +296,8 @@
 
 @media (max-width: 833px) {
     .inner-katya {
-        width: calc(375px - 65px);
+        max-width: calc(375px - 65px);
         padding: 0 30px 0 35px;
-        max-width: 768px;
     }
     .hat {
         margin-top: 35px;

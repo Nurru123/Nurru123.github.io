@@ -107,7 +107,6 @@
     }
 
     .format .block{
-        max-width: 165px;
         margin-top: 25px;
     }
 
@@ -115,7 +114,8 @@
         width: 157.69px;
         height: 92.6px;
         position: relative;
-        top: 25px;
+        top: 55px;
+        left: 75px;
         
 }
     .blocks{

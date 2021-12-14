@@ -5,6 +5,11 @@ body{
     width: 100%;
 }
 
+.students {
+    margin: 0;
+    padding: 0;
+}
+
 .inner-students{
     padding-left: 120px;
     padding-right: 120px ;
@@ -66,7 +71,7 @@ body{
         padding-right: 71px;
         padding-top: 53px;
         padding-bottom: 64px;
-        max-width: calc(845px - 142px);
+        max-width: calc(834px - 142px);
     }
 
     .first-text{
@@ -111,7 +116,7 @@ body{
         padding-right: 36px;
         padding-top: 42px;
         padding-bottom: 53px;
-        max-width: calc(375px - 72px);
+        max-width: calc(375px - 57px);
     }
     .under-inner{
         width: 100%;

@@ -4,15 +4,12 @@
 *:after {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
 .inner-serega {
-    width: 100%;
     max-width: calc(1440px - 240px);
     margin: 0 auto;
     padding: 50px 120px 23px;
-    height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -107,7 +104,7 @@
 
 @media screen and (max-width: 1279px) {
     .inner-serega {
-        width: calc(845px - 170px);
+        max-width: calc(834px - 170px);
         padding: 30px 100px 25px 70px;
     }
     .big-block {
