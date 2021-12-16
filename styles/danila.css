@@ -113,9 +113,9 @@
     .image{
         width: 157.69px;
         height: 92.6px;
-        position: relative;
-        top: 55px;
-        left: 75px;
+        position: absolute;
+        top: 35px;
+        left: 135px;
         
 }
     .blocks{
@@ -123,6 +123,7 @@
         margin-top: 16px;
     }
     .third-block{
+        position: relative;
         max-width: 340px;
         display: flex;
     }
